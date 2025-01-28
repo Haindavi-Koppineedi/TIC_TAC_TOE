@@ -1,1 +1,103 @@
+Welcome to Tic Tac Toe!
+
+
+   |   |   
+---|---|---
+   |   |   
+---|---|---
+   |   |   
+
+
+Player X, enter your move (1-9): 9
+
+
+   |   |   
+---|---|---
+   |   |   
+---|---|---
+   |   | X 
+
+
+Player O, enter your move (1-9): 9
+Invalid move! That spot is already taken. Try again.
+Player O, enter your move (1-9): 6
+
+
+   |   |   
+---|---|---
+   |   | O 
+---|---|---
+   |   | X 
+
+
+Player X, enter your move (1-9): 7
+
+
+   |   |   
+---|---|---
+   |   | O 
+---|---|---
+ X |   | X 
+
+
+Player O, enter your move (1-9): 8
+
+
+   |   |   
+---|---|---
+   |   | O 
+---|---|---
+ X | O | X 
+
+
+Player X, enter your move (1-9): 9
+Invalid move! That spot is already taken. Try again.
+Player X, enter your move (1-9): 8
+Invalid move! That spot is already taken. Try again.
+Player X, enter your move (1-9): 0
+Invalid move! That spot is already taken. Try again.
+Player X, enter your move (1-9): 1
+
+
+ X |   |   
+---|---|---
+   |   | O 
+---|---|---
+ X | O | X 
+
+
+Player O, enter your move (1-9): 2
+
+
+ X | O |   
+---|---|---
+   |   | O 
+---|---|---
+ X | O | X 
+
+
+Player X, enter your move (1-9): 3
+
+
+ X | O | X 
+---|---|---
+   |   | O 
+---|---|---
+ X | O | X 
+
+
+Player O, enter your move (1-9): 5
+
+
+ X | O | X 
+---|---|---
+   | O | O 
+---|---|---
+ X | O | X 
+
+
+Congratulations! Player O wins!
+Game Over! Thanks for playing.
+
+Process finished with exit code 0
 
